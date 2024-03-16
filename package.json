@@ -1,6 +1,6 @@
 {
-  "name": "homebridge-nukiio",
-  "version": "0.16.1",
+  "name": "homebridge-nuki_web",
+  "version": "0.0.1",
   "description": "Homebridge plugin for Nuki: http://nuki.io",
   "license": "GPL-3.0",
   "keywords": [
@@ -15,10 +15,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:benzman81/homebridge-nukiio.git"
+    "url": "git@github.com:adrien.beline/homebridge-nuki_web.git"
   },
   "bugs": {
-    "url": "https://github.com/benzman81/homebridge-nukiio/issues"
+    "url": "https://github.com/adrien.beline/homebridge-nuki_web/issues"
   },
   "engines": {
     "node": ">=0.12.0",
@@ -28,6 +28,6 @@
     "request": "2.87.x",
     "node-persist" : "2.0.x"
   },
-  "homepage": "https://github.com/benzman81/homebridge-nukiio#readme",
-  "author": "benzman81"
+  "homepage": "https://github.com/adrien.beline/homebridge-nuki_web#readme",
+  "author": "adrien.beline"
 }
